@@ -4,6 +4,11 @@
     "nombre": "Administrador",
     "activo": true
   },
+  "rpachay": {
+    "password": "1454",
+    "nombre": "Roberto Pachay",
+    "activo": true
+  },
   "tecnico1": {
     "password": "0101",
     "nombre": "Tecnico 1",
