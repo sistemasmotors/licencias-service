@@ -1,22 +1,33 @@
 {
   "admin": {
-    "password": "12345",
+    "password": "2468",
     "nombre": "Administrador",
     "activo": true
   },
   "rpachay": {
     "password": "1454",
-    "nombre": "Roberto Pachay",
+    "nombre": "ROBERTO PACHAY",
     "activo": true
   },
-  "tecnico1": {
-    "password": "0101",
-    "nombre": "Tecnico 1",
+  "sfigueroa": {
+    "password": "2026s",
+    "nombre": "SILVIA FIGUEROA",
     "activo": true
   },
-  "tecnico2": {
-    "password": "0202",
-    "nombre": "Tecnico 2",
-    "activo": false
+  "dbarahona": {
+    "password": "2026d",
+    "nombre": "DAVID BARAHONA",
+    "activo": true
+  }
+  ,
+  "parcentales": {
+    "password": "2026p",
+    "nombre": "PEDRO ARCENTALES",
+    "activo": true
+  },
+  "cegas": {
+    "password": "2026c",
+    "nombre": "CARLSO EGAS",
+    "activo": true
   }
 }
